@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmSvc.Dynamics.V9.Online",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Issues.Solution", "Issues.Solution\Issues.Solution.csproj", "{84DC7FEB-ABC3-4CCD-AE28-08B138CB0F99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{273CEBCC-883D-4AEA-9E11-BDC5297FB24C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning", "Learning\Learning.csproj", "{23B4C6CD-C014-4434-A150-28EBB010BDE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{84DC7FEB-ABC3-4CCD-AE28-08B138CB0F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84DC7FEB-ABC3-4CCD-AE28-08B138CB0F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84DC7FEB-ABC3-4CCD-AE28-08B138CB0F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273CEBCC-883D-4AEA-9E11-BDC5297FB24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273CEBCC-883D-4AEA-9E11-BDC5297FB24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273CEBCC-883D-4AEA-9E11-BDC5297FB24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273CEBCC-883D-4AEA-9E11-BDC5297FB24C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B4C6CD-C014-4434-A150-28EBB010BDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B4C6CD-C014-4434-A150-28EBB010BDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B4C6CD-C014-4434-A150-28EBB010BDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B4C6CD-C014-4434-A150-28EBB010BDE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
