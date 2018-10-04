@@ -1,0 +1,6 @@
+Solution for "Advanced Find ribbon icon alignment messed up" issue
+
+Open Advance find in the browser where it is not working
+Open Developer Tools (press f12 to open it)
+Go to Console Tab
+Enter below javascript and execute it: localStorage.clear()
