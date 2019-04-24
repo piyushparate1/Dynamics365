@@ -23,7 +23,7 @@ namespace MyPlugin
 
 				trace.Trace("Pluign has been started and collected all necessary object");
 
-				trace.Trace($"Pluign stage is {context.Stage.ToString()} and depth is {context.Depth.ToString()}");
+				trace.Trace($"Pluign stage is {context.Stage.ToString()}, message is {context.MessageName} and depth is {context.Depth.ToString()}");
 
 				using (OrganizationServiceContext orgContext = new OrganizationServiceContext(service))
 				{
